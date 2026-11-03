@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9de99f3e56fdbbd41993886e21ea2cfb, type: 3}
+  m_Name: InstructionDialogue
+  m_EditorClassIdentifier: 
+  NPCName: Game
+  NPCPortrait: {fileID: 3334738622998220081, guid: 20757dce22130b84fae1fc7f776b2fe2, type: 3}
+  dialogueLines:
+  - Welcome to Breaking Banana
+  - To begin, pick up the nearby item by walking towards them
+  - Select the shovel with your scroll wheel or with the above number keys
+  - Click the ground with this item selected
+  - Now, select the bag of fertilizer and click on the ploughed land
+  - Finally, select the banana, and place it on where you just placed the fertilizer
+  - Once the banana has finished growing, use your axe to chop it down and sell your
+    crops
+  - You can sell your bananas at the store North West from here
+  - Collect revenue to construct buildings to help with farming and selling
+  autoProgressLines: 
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 0}
+  voicePitch: 1

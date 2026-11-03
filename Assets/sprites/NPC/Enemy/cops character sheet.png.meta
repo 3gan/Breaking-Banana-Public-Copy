@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 7b096e97737a8a242b5a5c8d728911d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5477878124028928626
+    second: cops character sheet_0
+  - first:
+      213: -3433467272838824575
+    second: cops character sheet_1
+  - first:
+      213: -3756348379592993039
+    second: cops character sheet_2
+  - first:
+      213: -5732698115010130692
+    second: cops character sheet_3
+  - first:
+      213: 470053553304917604
+    second: cops character sheet_4
+  - first:
+      213: 4358549890654777585
+    second: cops character sheet_5
+  - first:
+      213: 6723430589067307587
+    second: cops character sheet_6
+  - first:
+      213: 3200194813870592452
+    second: cops character sheet_7
+  - first:
+      213: -6503103764358917360
+    second: cops character sheet_8
+  - first:
+      213: 1451335276379066900
+    second: cops character sheet_9
+  - first:
+      213: 5691215992649147402
+    second: cops character sheet_10
+  - first:
+      213: -5868389421719896414
+    second: cops character sheet_11
+  - first:
+      213: -2879514780049839889
+    second: cops character sheet_12
+  - first:
+      213: -5012806338090258807
+    second: cops character sheet_13
+  - first:
+      213: 7084082370410823790
+    second: cops character sheet_14
+  - first:
+      213: 4794966168788414861
+    second: cops character sheet_15
+  - first:
+      213: -4149853179106360558
+    second: cops character sheet_16
+  - first:
+      213: 2652149813126761947
+    second: cops character sheet_17
+  - first:
+      213: -4150000746401376325
+    second: cops character sheet_18
+  - first:
+      213: -8141712264778463712
+    second: cops character sheet_19
+  - first:
+      213: -8660410763410766639
+    second: cops character sheet_20
+  - first:
+      213: -8220007629027857692
+    second: cops character sheet_21
+  - first:
+      213: 1554346223478969125
+    second: cops character sheet_22
+  - first:
+      213: 3831480947725785171
+    second: cops character sheet_23
+  - first:
+      213: -8333819011356587909
+    second: cops character sheet_24
+  - first:
+      213: -3898573827427384713
+    second: cops character sheet_25
+  - first:
+      213: -5076404190437173670
+    second: cops character sheet_26
+  - first:
+      213: 2034017025731817816
+    second: cops character sheet_27
+  - first:
+      213: 2623443757155779114
+    second: cops character sheet_28
+  - first:
+      213: -1122176539165719671
+    second: cops character sheet_29
+  - first:
+      213: -2863365823275498963
+    second: cops character sheet_30
+  - first:
+      213: -8880086089855140768
+    second: cops character sheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cops character sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d5f568edaaaf3b0800000000000000
+      internalID: -5477878124028928626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d3386e4bfd950d0800000000000000
+      internalID: -3433467272838824575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6debdfc05cedbc0800000000000000
+      internalID: -3756348379592993039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc0542007d5170b0800000000000000
+      internalID: -5732698115010130692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466562e5737f58600800000000000000
+      internalID: 470053553304917604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0bb40780eac7c30800000000000000
+      internalID: 4358549890654777585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a2a5d9f7c6e4d50800000000000000
+      internalID: 6723430589067307587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1ddc45a30696c20800000000000000
+      internalID: 3200194813870592452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01391ebc49550c5a0800000000000000
+      internalID: -6503103764358917360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412519e8ebd242410800000000000000
+      internalID: 1451335276379066900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04efddbac24bfe40800000000000000
+      internalID: 5691215992649147402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeb9bab9ea4f8ea0800000000000000
+      internalID: -5868389421719896414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe864a95098e908d0800000000000000
+      internalID: -2879514780049839889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ead4ac13fee6ab0800000000000000
+      internalID: -5012806338090258807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60c1fff167bf4260800000000000000
+      internalID: 7084082370410823790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8136a063542b8240800000000000000
+      internalID: 4794966168788414861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213075d3582c866c0800000000000000
+      internalID: -4149853179106360558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd0a8e04345ec420800000000000000
+      internalID: 2652149813126761947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7d32d0f4c3866c0800000000000000
+      internalID: -4150000746401376325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0264072f4d3d20f80800000000000000
+      internalID: -8141712264778463712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48ee5ab4a00d780800000000000000
+      internalID: -8660410763410766639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea2bc4ec9aaced80800000000000000
+      internalID: -8220007629027857692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5231f6ca7a5229510800000000000000
+      internalID: 1554346223478969125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3585fd43f972c2530800000000000000
+      internalID: 3831480947725785171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7881bd73c3585c80800000000000000
+      internalID: -8333819011356587909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724e8d62cb75e9c0800000000000000
+      internalID: -3898573827427384713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5610b4e84dfc89b0800000000000000
+      internalID: -5076404190437173670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85177dd45b74a3c10800000000000000
+      internalID: 2034017025731817816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228c719238586420800000000000000
+      internalID: 2623443757155779114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98300c7126a3d60f0800000000000000
+      internalID: -1122176539165719671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d228ba954f74348d0800000000000000
+      internalID: -2863365823275498963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cops character sheet_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfb4fffb893c480800000000000000
+      internalID: -8880086089855140768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27b526366b6bdb344915a002462ebd26
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cops character sheet_0: -5477878124028928626
+      cops character sheet_1: -3433467272838824575
+      cops character sheet_10: 5691215992649147402
+      cops character sheet_11: -5868389421719896414
+      cops character sheet_12: -2879514780049839889
+      cops character sheet_13: -5012806338090258807
+      cops character sheet_14: 7084082370410823790
+      cops character sheet_15: 4794966168788414861
+      cops character sheet_16: -4149853179106360558
+      cops character sheet_17: 2652149813126761947
+      cops character sheet_18: -4150000746401376325
+      cops character sheet_19: -8141712264778463712
+      cops character sheet_2: -3756348379592993039
+      cops character sheet_20: -8660410763410766639
+      cops character sheet_21: -8220007629027857692
+      cops character sheet_22: 1554346223478969125
+      cops character sheet_23: 3831480947725785171
+      cops character sheet_24: -8333819011356587909
+      cops character sheet_25: -3898573827427384713
+      cops character sheet_26: -5076404190437173670
+      cops character sheet_27: 2034017025731817816
+      cops character sheet_28: 2623443757155779114
+      cops character sheet_29: -1122176539165719671
+      cops character sheet_3: -5732698115010130692
+      cops character sheet_30: -2863365823275498963
+      cops character sheet_31: -8880086089855140768
+      cops character sheet_4: 470053553304917604
+      cops character sheet_5: 4358549890654777585
+      cops character sheet_6: 6723430589067307587
+      cops character sheet_7: 3200194813870592452
+      cops character sheet_8: -6503103764358917360
+      cops character sheet_9: 1451335276379066900
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

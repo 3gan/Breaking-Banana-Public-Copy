@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: fb48d85b23bbe8a48987d6631607ca94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7723588307702741976
+    second: Prototype_Character-Sheet_0
+  - first:
+      213: -7818070023795694952
+    second: Prototype_Character-Sheet_1
+  - first:
+      213: -6165321540002318818
+    second: Prototype_Character-Sheet_2
+  - first:
+      213: -4779858940504833459
+    second: Prototype_Character-Sheet_3
+  - first:
+      213: 2644668912315846512
+    second: Prototype_Character-Sheet_4
+  - first:
+      213: 9148179371329731632
+    second: Prototype_Character-Sheet_5
+  - first:
+      213: 7834781200013267735
+    second: Prototype_Character-Sheet_6
+  - first:
+      213: 4767250575376507445
+    second: Prototype_Character-Sheet_7
+  - first:
+      213: 4397958927818672753
+    second: Prototype_Character-Sheet_8
+  - first:
+      213: -4297377890584791014
+    second: Prototype_Character-Sheet_9
+  - first:
+      213: -574667583091620292
+    second: Prototype_Character-Sheet_10
+  - first:
+      213: -3480266629598749904
+    second: Prototype_Character-Sheet_11
+  - first:
+      213: 3499019040052749786
+    second: Prototype_Character-Sheet_12
+  - first:
+      213: 4652481413914547878
+    second: Prototype_Character-Sheet_13
+  - first:
+      213: -1366622439303344289
+    second: Prototype_Character-Sheet_14
+  - first:
+      213: -1832942383784590754
+    second: Prototype_Character-Sheet_15
+  - first:
+      213: 3364012960827603621
+    second: Prototype_Character-Sheet_16
+  - first:
+      213: 4652202869825305977
+    second: Prototype_Character-Sheet_17
+  - first:
+      213: -3742407331807959233
+    second: Prototype_Character-Sheet_18
+  - first:
+      213: 6585352935978435605
+    second: Prototype_Character-Sheet_19
+  - first:
+      213: -6175691716384043670
+    second: Prototype_Character-Sheet_20
+  - first:
+      213: -3456620523277643865
+    second: Prototype_Character-Sheet_21
+  - first:
+      213: -4891458788139803703
+    second: Prototype_Character-Sheet_22
+  - first:
+      213: 5482560081986418049
+    second: Prototype_Character-Sheet_23
+  - first:
+      213: 9190994074163543436
+    second: Prototype_Character-Sheet_24
+  - first:
+      213: 3630055357904642794
+    second: Prototype_Character-Sheet_25
+  - first:
+      213: 242257797773845055
+    second: Prototype_Character-Sheet_26
+  - first:
+      213: -1494243867821746061
+    second: Prototype_Character-Sheet_27
+  - first:
+      213: 6035837032060842161
+    second: Prototype_Character-Sheet_28
+  - first:
+      213: -5457895170483302073
+    second: Prototype_Character-Sheet_29
+  - first:
+      213: 4482739938614703281
+    second: Prototype_Character-Sheet_30
+  - first:
+      213: 452423350669746099
+    second: Prototype_Character-Sheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chemist_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faf9b52e79d6654382d3dd7be588100
+      internalID: -1539395979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a5959c8bfa144390b8570a3898cd7
+      internalID: 24225735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46be10766973dc479c105d4a612d1d8
+      internalID: -368252853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba30bda24f91a7f4a9917f37b84db8b2
+      internalID: -760573878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e98da0960ad7ab47ae162ea78b360ad
+      internalID: 1329228449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb2ab9277c55a448aedebd9ff8cd923
+      internalID: -2023263692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a568c0af98e343a6e3c8190e3f8c2
+      internalID: -71983716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9a3892bc6bea24aba862d7cc829bff
+      internalID: 981927557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce93f72b39f894347b89f86191f53187
+      internalID: -1692671587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e43ba1ac89b344cb7f43e32c926834
+      internalID: -1485092853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c658ab050ff055c4fb001e832a06b1fb
+      internalID: -1073848219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561f5e60bdaf2794b8620074e4701b6c
+      internalID: 87252907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c814faade5dbb40970af84d6ec720b
+      internalID: -1993126036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b18351b1dba0241986f8893383879f
+      internalID: -1587307795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5975cf7b5b7fe48a5ba2f04c0f13b0
+      internalID: 838509176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc29e267a1fb3c34c8b20777412790ef
+      internalID: -582745427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb0a38bacb64647937e5cab59a68d1
+      internalID: 1739575411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc808c04a94ab74c83548110e81774b
+      internalID: -1532347702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4278871e56bd43a82a15b80fbb865
+      internalID: -416107425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c64f0d67b5c3284cb7b6fcd6c3a2a3d
+      internalID: 2048036464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6d8e440bbdd34db050bc68d80934c
+      internalID: -884728233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe5dc2112232343a6e0835701b4715
+      internalID: -6749279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb5bd52decdd546a96ba43e14b2d60
+      internalID: 1079207201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a4eb31c5e65d04e96c5907be9fd7ab
+      internalID: -1788999305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d07408fc570f9469d32a337d6def49
+      internalID: -38462321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458789164690d14bbf97807bc6caf49
+      internalID: -1392101756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f355b3437bf53a49b13176af1444dc3
+      internalID: -290528228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8d44dcd2c4bcd4e9ed24802179113e
+      internalID: -589068041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cb0a0e66f6e1540a51b19490ad58a7
+      internalID: 589988791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181e9b9d099f29a4bb27fc0181dfeb02
+      internalID: -1771718462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85be0d1528fc7ff4ab4c86a68b905880
+      internalID: -1766025520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chemist_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5439752086586a46bcda57c84a1438a
+      internalID: -591470364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c3b7b54879382ba42a69140af79e76ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chemist_0: -1539395979
+      Chemist_1: 24225735
+      Chemist_10: -1073848219
+      Chemist_11: 87252907
+      Chemist_12: -1993126036
+      Chemist_13: -1587307795
+      Chemist_14: 838509176
+      Chemist_15: -582745427
+      Chemist_16: 1739575411
+      Chemist_17: -1532347702
+      Chemist_18: -416107425
+      Chemist_19: 2048036464
+      Chemist_2: -368252853
+      Chemist_20: -884728233
+      Chemist_21: -6749279
+      Chemist_22: 1079207201
+      Chemist_23: -1788999305
+      Chemist_24: -38462321
+      Chemist_25: -1392101756
+      Chemist_26: -290528228
+      Chemist_27: -589068041
+      Chemist_28: 589988791
+      Chemist_29: -1771718462
+      Chemist_3: -760573878
+      Chemist_30: -1766025520
+      Chemist_31: -591470364
+      Chemist_4: 1329228449
+      Chemist_5: -2023263692
+      Chemist_6: -71983716
+      Chemist_7: 981927557
+      Chemist_8: -1692671587
+      Chemist_9: -1485092853
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

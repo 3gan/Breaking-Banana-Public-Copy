@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 0f76e54906c2c8941a32dfc62f945c7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -195158060493760878
+    second: Constable character sheet_0
+  - first:
+      213: 7872327112913939805
+    second: Constable character sheet_1
+  - first:
+      213: 5214361323284032356
+    second: Constable character sheet_2
+  - first:
+      213: 3134633459519816953
+    second: Constable character sheet_3
+  - first:
+      213: 2799284798701505633
+    second: Constable character sheet_4
+  - first:
+      213: -3876806892770544125
+    second: Constable character sheet_5
+  - first:
+      213: -6838214050707780711
+    second: Constable character sheet_6
+  - first:
+      213: -6435897378679003049
+    second: Constable character sheet_7
+  - first:
+      213: -6775551285306146471
+    second: Constable character sheet_8
+  - first:
+      213: -4433719492711539594
+    second: Constable character sheet_9
+  - first:
+      213: -2436751567371435551
+    second: Constable character sheet_10
+  - first:
+      213: -4753412699748326726
+    second: Constable character sheet_11
+  - first:
+      213: 4320945303942487824
+    second: Constable character sheet_12
+  - first:
+      213: -2914465790532765046
+    second: Constable character sheet_13
+  - first:
+      213: -5066766912366220604
+    second: Constable character sheet_14
+  - first:
+      213: 8908430084799978736
+    second: Constable character sheet_15
+  - first:
+      213: -3671249543389382751
+    second: Constable character sheet_16
+  - first:
+      213: -8811135912589874797
+    second: Constable character sheet_17
+  - first:
+      213: -5148477159979390596
+    second: Constable character sheet_18
+  - first:
+      213: 4712942575362655777
+    second: Constable character sheet_19
+  - first:
+      213: 8270344381236681086
+    second: Constable character sheet_20
+  - first:
+      213: 6778808179523723665
+    second: Constable character sheet_21
+  - first:
+      213: 531075369904668720
+    second: Constable character sheet_22
+  - first:
+      213: 2726143050302327331
+    second: Constable character sheet_23
+  - first:
+      213: -7592052959181418767
+    second: Constable character sheet_24
+  - first:
+      213: 3576239718307700140
+    second: Constable character sheet_25
+  - first:
+      213: 7924029544025955586
+    second: Constable character sheet_26
+  - first:
+      213: 4425185627263137900
+    second: Constable character sheet_27
+  - first:
+      213: -6310093832824060037
+    second: Constable character sheet_28
+  - first:
+      213: 5471593875770979601
+    second: Constable character sheet_29
+  - first:
+      213: 2273603641493744348
+    second: Constable character sheet_30
+  - first:
+      213: 4703388747667505953
+    second: Constable character sheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Constable character sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296173927c8aa4df0800000000000000
+      internalID: -195158060493760878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d69e0cccf104d60800000000000000
+      internalID: 7872327112913939805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b61e42ff12d5840800000000000000
+      internalID: 5214361323284032356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f48bbff584708b20800000000000000
+      internalID: 3134633459519816953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c01c371be09d620800000000000000
+      internalID: 2799284798701505633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30630a5dba0d23ac0800000000000000
+      internalID: -3876806892770544125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b4a712d88c911a0800000000000000
+      internalID: -6838214050707780711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75868f4de691fa6a0800000000000000
+      internalID: -6435897378679003049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c2e1210868f1a0800000000000000
+      internalID: -6775551285306146471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c143bbc934872c0800000000000000
+      internalID: -4433719492711539594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e103f42c5bee2ed0800000000000000
+      internalID: -2436751567371435551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2aba0955c780eb0800000000000000
+      internalID: -4753412699748326726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f526f4cd417fb30800000000000000
+      internalID: 4320945303942487824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a34451eccbd87d0800000000000000
+      internalID: -2914465790532765046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca65bc865a3fa9b0800000000000000
+      internalID: -5066766912366220604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64.66667
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd7e696f911ab70800000000000000
+      internalID: 8908430084799978736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7f57ccdf91d0dc0800000000000000
+      internalID: -3671249543389382751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399a466229e88b580800000000000000
+      internalID: -8811135912589874797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7967310d4fec88b0800000000000000
+      internalID: -5148477159979390596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1264e435d4cb76140800000000000000
+      internalID: 4712942575362655777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7992c5856a26c270800000000000000
+      internalID: 8270344381236681086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1912605af1a231e50800000000000000
+      internalID: 6778808179523723665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03080243c32ce5700800000000000000
+      internalID: 531075369904668720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32.666668
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a8b2819a435d520800000000000000
+      internalID: 2726143050302327331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec90cde0c93a690800000000000000
+      internalID: -7592052959181418767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad9f59731b51a130800000000000000
+      internalID: 3576239718307700140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d1e5113eec7fd60800000000000000
+      internalID: 7924029544025955586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fe22e1ea696d30800000000000000
+      internalID: 4425185627263137900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778323671b0e68a0800000000000000
+      internalID: -6310093832824060037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_29
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1153888e3a10feb40800000000000000
+      internalID: 5471593875770979601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae44347767d8f10800000000000000
+      internalID: 2273603641493744348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Constable character sheet_31
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0.66666794
+        width: 32
+        height: 32.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1238a49752bc54140800000000000000
+      internalID: 4703388747667505953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 35c860c7fc4080f4ba84587489fdba04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Constable character sheet_0: -195158060493760878
+      Constable character sheet_1: 7872327112913939805
+      Constable character sheet_10: -2436751567371435551
+      Constable character sheet_11: -4753412699748326726
+      Constable character sheet_12: 4320945303942487824
+      Constable character sheet_13: -2914465790532765046
+      Constable character sheet_14: -5066766912366220604
+      Constable character sheet_15: 8908430084799978736
+      Constable character sheet_16: -3671249543389382751
+      Constable character sheet_17: -8811135912589874797
+      Constable character sheet_18: -5148477159979390596
+      Constable character sheet_19: 4712942575362655777
+      Constable character sheet_2: 5214361323284032356
+      Constable character sheet_20: 8270344381236681086
+      Constable character sheet_21: 6778808179523723665
+      Constable character sheet_22: 531075369904668720
+      Constable character sheet_23: 2726143050302327331
+      Constable character sheet_24: -7592052959181418767
+      Constable character sheet_25: 3576239718307700140
+      Constable character sheet_26: 7924029544025955586
+      Constable character sheet_27: 4425185627263137900
+      Constable character sheet_28: -6310093832824060037
+      Constable character sheet_29: 5471593875770979601
+      Constable character sheet_3: 3134633459519816953
+      Constable character sheet_30: 2273603641493744348
+      Constable character sheet_31: 4703388747667505953
+      Constable character sheet_4: 2799284798701505633
+      Constable character sheet_5: -3876806892770544125
+      Constable character sheet_6: -6838214050707780711
+      Constable character sheet_7: -6435897378679003049
+      Constable character sheet_8: -6775551285306146471
+      Constable character sheet_9: -4433719492711539594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

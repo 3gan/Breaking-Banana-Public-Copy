@@ -1,0 +1,924 @@
+fileFormatVersion: 2
+guid: 7ffa0b3324138734192115b245bc860a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6711950673717420751
+    second: Chief character sheet_0
+  - first:
+      213: -4866773341819465716
+    second: Chief character sheet_1
+  - first:
+      213: -9173240206956744229
+    second: Chief character sheet_2
+  - first:
+      213: -1103823163575281530
+    second: Chief character sheet_3
+  - first:
+      213: -425642582330275947
+    second: Chief character sheet_4
+  - first:
+      213: -96768344614958916
+    second: Chief character sheet_5
+  - first:
+      213: -5566843565552001736
+    second: Chief character sheet_6
+  - first:
+      213: -8141233366535611086
+    second: Chief character sheet_7
+  - first:
+      213: -4832371129730215757
+    second: Chief character sheet_8
+  - first:
+      213: -77951302287198109
+    second: Chief character sheet_9
+  - first:
+      213: 4409545234989017557
+    second: Chief character sheet_10
+  - first:
+      213: 6082307841998400843
+    second: Chief character sheet_11
+  - first:
+      213: 5199504255383698943
+    second: Chief character sheet_12
+  - first:
+      213: 496153603782511556
+    second: Chief character sheet_13
+  - first:
+      213: 7517368977380488035
+    second: Chief character sheet_14
+  - first:
+      213: 5936370295526945833
+    second: Chief character sheet_15
+  - first:
+      213: -7159442237025068762
+    second: Chief character sheet_16
+  - first:
+      213: -2466160412060195594
+    second: Chief character sheet_17
+  - first:
+      213: 1148382390420013875
+    second: Chief character sheet_18
+  - first:
+      213: -8044050542728911739
+    second: Chief character sheet_19
+  - first:
+      213: -3284447776944809807
+    second: Chief character sheet_20
+  - first:
+      213: -5486025633018720039
+    second: Chief character sheet_21
+  - first:
+      213: 7816083109084153773
+    second: Chief character sheet_22
+  - first:
+      213: -7894854283576873947
+    second: Chief character sheet_23
+  - first:
+      213: 5467843328727030863
+    second: Chief character sheet_24
+  - first:
+      213: 4546420511920377734
+    second: Chief character sheet_25
+  - first:
+      213: -3068579886556007913
+    second: Chief character sheet_26
+  - first:
+      213: 7362515535200127028
+    second: Chief character sheet_27
+  - first:
+      213: -4733770473236157973
+    second: Chief character sheet_28
+  - first:
+      213: 6627743235298872209
+    second: Chief character sheet_29
+  - first:
+      213: -8749095830987502272
+    second: Chief character sheet_30
+  - first:
+      213: 5999620226616381067
+    second: Chief character sheet_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chief character sheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2eed88393a52d50800000000000000
+      internalID: 6711950673717420751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00928e4e6fb57cb0800000000000000
+      internalID: -4866773341819465716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1330932aa12b080800000000000000
+      internalID: -9173240206956744229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6885f385eae6ea0f0800000000000000
+      internalID: -1103823163575281530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5978ce69350d71af0800000000000000
+      internalID: -425642582330275947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb809b904b538aef0800000000000000
+      internalID: -96768344614958916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d9a1385499eb2b0800000000000000
+      internalID: -5566843565552001736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d56122367840f80800000000000000
+      internalID: -8141233366535611086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0d39d7f08ffecb0800000000000000
+      internalID: -4832371129730215757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368746d14bf0beef0800000000000000
+      internalID: -77951302287198109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d96988470ad13d30800000000000000
+      internalID: 4409545234989017557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d23e0c1c2b86450800000000000000
+      internalID: 6082307841998400843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdf6467299582840800000000000000
+      internalID: 5199504255383698943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 71
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb8c7be211b2e600800000000000000
+      internalID: 496153603782511556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633e46914f035860800000000000000
+      internalID: 7517368977380488035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 71
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9247010e459326250800000000000000
+      internalID: 5936370295526945833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295130c73d84ac90800000000000000
+      internalID: -7159442237025068762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 39
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f46508eb2076cdd0800000000000000
+      internalID: -2466160412060195594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3338c4f13bfdfef00800000000000000
+      internalID: 1148382390420013875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584ea5d86aacd5090800000000000000
+      internalID: -8044050542728911739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b812eb062c4b62d0800000000000000
+      internalID: -3284447776944809807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 39
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d05b33c0c8bdd3b0800000000000000
+      internalID: -5486025633018720039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_22
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da744e32d2e487c60800000000000000
+      internalID: 7816083109084153773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 39
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cede99bd7df6290800000000000000
+      internalID: -7894854283576873947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c9340a98ea1eb40800000000000000
+      internalID: 5467843328727030863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f409c1e51281f30800000000000000
+      internalID: 4546420511920377734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_26
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712bbe8e9d63a65d0800000000000000
+      internalID: -3068579886556007913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 7
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43806e8fed8ec2660800000000000000
+      internalID: 7362515535200127028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_28
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a68ec5d44e4eb0800000000000000
+      internalID: -4733770473236157973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_29
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bcc727b597afb50800000000000000
+      internalID: 6627743235298872209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_30
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 7
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d832842b7f49680800000000000000
+      internalID: -8749095830987502272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chief character sheet_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 7
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ec7ba0fcee24350800000000000000
+      internalID: 5999620226616381067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chief character sheet_0: 6711950673717420751
+      Chief character sheet_1: -4866773341819465716
+      Chief character sheet_10: 4409545234989017557
+      Chief character sheet_11: 6082307841998400843
+      Chief character sheet_12: 5199504255383698943
+      Chief character sheet_13: 496153603782511556
+      Chief character sheet_14: 7517368977380488035
+      Chief character sheet_15: 5936370295526945833
+      Chief character sheet_16: -7159442237025068762
+      Chief character sheet_17: -2466160412060195594
+      Chief character sheet_18: 1148382390420013875
+      Chief character sheet_19: -8044050542728911739
+      Chief character sheet_2: -9173240206956744229
+      Chief character sheet_20: -3284447776944809807
+      Chief character sheet_21: -5486025633018720039
+      Chief character sheet_22: 7816083109084153773
+      Chief character sheet_23: -7894854283576873947
+      Chief character sheet_24: 5467843328727030863
+      Chief character sheet_25: 4546420511920377734
+      Chief character sheet_26: -3068579886556007913
+      Chief character sheet_27: 7362515535200127028
+      Chief character sheet_28: -4733770473236157973
+      Chief character sheet_29: 6627743235298872209
+      Chief character sheet_3: -1103823163575281530
+      Chief character sheet_30: -8749095830987502272
+      Chief character sheet_31: 5999620226616381067
+      Chief character sheet_4: -425642582330275947
+      Chief character sheet_5: -96768344614958916
+      Chief character sheet_6: -5566843565552001736
+      Chief character sheet_7: -8141233366535611086
+      Chief character sheet_8: -4832371129730215757
+      Chief character sheet_9: -77951302287198109
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 9de99f3e56fdbbd41993886e21ea2cfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NPCPortrait: {fileID: 4756416275027024007, guid: 6d1433d1638579e45aced96568e12245, type: 3}
+  - voiceSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

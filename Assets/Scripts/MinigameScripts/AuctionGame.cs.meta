@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 85b2ec14d976da349b8df65c3d0a85e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - auctionGameUI: {instanceID: 0}
+  - resultsUI: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  - suspicionText: {instanceID: 0}
+  - resultsText: {instanceID: 0}
+  - regularBuyerSprite: {fileID: 944903003653688790, guid: ad133197b4b61fb45b7c0161ee893bbf, type: 3}
+  - highBuyerSprite: {fileID: 7613639310631495377, guid: 322639e84fb95244f8c23e698e896ce4, type: 3}
+  - purpleBuyerSprite: {fileID: -8701376021823761614, guid: d09f56e58d8ba6d47a8da4b16a1440fa, type: 3}
+  - notPurpleBuyerSprite: {fileID: -6162958504289114563, guid: 585c0542c4cbcda40a48ad165c3dc8b7, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
